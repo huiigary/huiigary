@@ -12,7 +12,7 @@ Welcome to the showcasing of my journey in learning of new tools and frameworks 
 
 ## 🛠 Technologies and tools
 <div>
-  <a href='#'>
+  <a href='#---' >
     <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js " height="25" />&nbsp;
     <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=61DAFB" alt="Angular logo" title="Angular " height="25" />&nbsp;
     <img src="https://img.shields.io/badge/Typescript-282C34?logo=Typescript&logoColor=61DAFB" alt="Typescript logo" title="Typescript " height="25" />&nbsp;
@@ -23,7 +23,7 @@ Welcome to the showcasing of my journey in learning of new tools and frameworks 
 </div>
 
 <div>
-  <a href="#">
+  <a href="#" style={{textDecoration:'none'}}>
     <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
     <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;  
     <img src="https://img.shields.io/badge/Nodemon-282C34?logo=nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" />&nbsp;
