@@ -11,8 +11,9 @@ Welcome to the showcasing of my journey in learning of new tools and frameworks 
 ---
 
 ## 🛠 Technologies and tools
+
 <div>
-  <a href='#---' >
+  <a href='#.' >
     <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js " height="25" />&nbsp;
     <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=61DAFB" alt="Angular logo" title="Angular " height="25" />&nbsp;
     <img src="https://img.shields.io/badge/Typescript-282C34?logo=Typescript&logoColor=61DAFB" alt="Typescript logo" title="Typescript " height="25" />&nbsp;
@@ -23,7 +24,7 @@ Welcome to the showcasing of my journey in learning of new tools and frameworks 
 </div>
 
 <div>
-  <a href="#" style={{textDecoration:'none'}}>
+  <a href='#.' >
     <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
     <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;  
     <img src="https://img.shields.io/badge/Nodemon-282C34?logo=nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" />&nbsp;
@@ -32,7 +33,7 @@ Welcome to the showcasing of my journey in learning of new tools and frameworks 
 </div>
 
 <div>
-  <a href="#">
+  <a href='#.' >
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp; 
     <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
     <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />&nbsp;
